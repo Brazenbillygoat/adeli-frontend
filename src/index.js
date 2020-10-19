@@ -11,5 +11,4 @@ function fetchUrl(){
   .then(console.log)
 }
 
-fetchUrl()
 console.log("hello")
