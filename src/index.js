@@ -1,8 +1,8 @@
 
 //USEFUL VARIABLES FOR MENU DISPLAY
-const itemsUrl = "http://localhost:3000/items"
-const singleItemUrl = "http://localhost:3000/items/"
-const categoriesUrl = "http://localhost:3000/categories"
+const itemsUrl = "https://adeli-backend.herokuapp.com/items"
+const singleItemUrl = "https://adeli-backend.herokuapp.com/items/"
+const categoriesUrl = "https://adeli-backend.herokuapp.com/categories"
 const categoriesMenuList = document.querySelector("#menu-categories-ul")
 const itemsInCategoryContainer = document.querySelector("#eat")
 const currentMenuHeader = document.querySelector("#current-menu")
